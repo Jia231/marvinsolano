@@ -1,0 +1,22 @@
+{
+  "name": "marvinsolano",
+  "version": "1.0.0",
+  "description": "\"Personal blog\"",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msolano00/marvinsolano.git"
+  },
+  "author": "Marvin Solano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msolano00/marvinsolano/issues"
+  },
+  "homepage": "https://github.com/msolano00/marvinsolano#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
